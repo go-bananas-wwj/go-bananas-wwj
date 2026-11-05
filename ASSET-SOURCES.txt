@@ -1,0 +1,8 @@
+name-in-s2.png
+Text: WEIJIE WU
+Exported from Your Name in Sentinel, by VoyagerX:
+https://modelscope.ai/studios/VoyagerX/Your-Name-In-Sentinel
+Imagery: Sentinel-2
+Export date: 2026-11-05
+Original dimensions: 3544 x 1024
+Original exported PNG, without AI repainting.
