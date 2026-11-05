@@ -10,11 +10,6 @@
 
 ### Selected projects
 
-**[XuanNv CGRF](https://github.com/go-bananas-wwj/xuannv-cgrf)** — Multi-source geospatial representation fusion · IEEE JSTARS, under review  
-[Code](https://github.com/go-bananas-wwj/xuannv-cgrf) · [Data](https://modelscope.cn/datasets/WeijieWu/xuannv-cgrf-data) · [Reproduction](https://github.com/go-bananas-wwj/xuannv-cgrf/blob/main/docs/reproduce.md)
-
----
-
 **[EarthEmbeddingExplorer](https://github.com/go-bananas-wwj/EarthEmbeddingExplorer)** — Cross-modal retrieval of global satellite imagery · ICLR 2026 ML4RS Workshop  
 [Paper](https://arxiv.org/abs/2603.29441) · [Code](https://github.com/OpenGeoScope/EarthEmbeddingExplorer) · [Demo](https://modelscope.cn/studios/WeijieWu/EarthEmbeddingExplorer)
 

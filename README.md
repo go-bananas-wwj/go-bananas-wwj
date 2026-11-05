@@ -9,11 +9,6 @@
 
 ### 研究项目
 
-**[XuanNv CGRF](https://github.com/go-bananas-wwj/xuannv-cgrf)** — 多源地理表征融合 · IEEE JSTARS 审稿中  
-[代码](https://github.com/go-bananas-wwj/xuannv-cgrf) · [数据](https://modelscope.cn/datasets/WeijieWu/xuannv-cgrf-data) · [复现](https://github.com/go-bananas-wwj/xuannv-cgrf/blob/main/docs/reproduce.md)
-
----
-
 **[EarthEmbeddingExplorer](https://github.com/go-bananas-wwj/EarthEmbeddingExplorer)** — 全球卫星影像跨模态检索 · ICLR 2026 ML4RS Workshop  
 [论文](https://arxiv.org/abs/2603.29441) · [代码](https://github.com/OpenGeoScope/EarthEmbeddingExplorer) · [演示](https://modelscope.cn/studios/WeijieWu/EarthEmbeddingExplorer)
 
